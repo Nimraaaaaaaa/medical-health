@@ -1,4 +1,4 @@
-# 🏥 HealthHub AI - Multi-Specialist Healthcare Assistant
+# 🏥 HealthHub AI- Multi-Specialist Healthcare Assistant
 
 **HealthHub AI** is an advanced, multi-agent healthcare assistant powered by state-of-the-art language models and AI pipelines. It provides personalized support across various medical domains, allowing users to interact with specialized agents like Dental Experts, Dermatologists, Diet Planners, Fitness Coaches, Mental Health Counselors, General Physicians, Pharmacists, and Medical Report Analyzers — all in one place.
 
